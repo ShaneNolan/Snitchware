@@ -1,0 +1,2 @@
+# Snitchware
+Advanced C# ransomware.
