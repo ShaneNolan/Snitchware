@@ -13,7 +13,7 @@ A non distributed advanced C# ransomware.
     - Password encryption
   - Client Dashboard
   - Client Information
--Duplication
+- Duplication
   - Snitchware will copy itself to another location, therefore if the client deletes the program it will till exist.
 - Hidden *(Optional)*
   - Snitchware will also hide itself from the client, making it more difficult to remove from their system.
