@@ -26,7 +26,7 @@ A non distributed advanced C# ransomware.
 - Automatic Check
 - Disable Task Manager & CMD *(Optional)*
 - BTC Address Generation
-- Oject Oriented Programmed
+- Object Oriented
 - Fake Error Message *(Optional)*
 - Modern GUI
 - Russian Roulette Optional
